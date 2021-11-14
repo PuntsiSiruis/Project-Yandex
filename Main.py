@@ -6,7 +6,6 @@ from reader2 import Reader
 import меню222
 from check_db import *
 from des import *
-from regStr import *
 import calc1
 from calc1 import calc
 from PyQt5.QtGui import QPixmap
